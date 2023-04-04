@@ -12,5 +12,6 @@ const useCounter = () => {
     }, []);
     
     return counter;
+};
 
-export default useCounter;
+export default useCounter
